@@ -35,5 +35,6 @@ From MemOffenders.txt
 userA|5185136|Example_jobname|92160|29379
 userB|5188731|Example_job324|256000|30678
 userC|5188783|Example_job_abcd|16384|7404
+...
 ```
 The fourth and fifth fields being the requested RAM and effective RAM, respectively.
