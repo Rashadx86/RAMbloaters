@@ -1,4 +1,4 @@
-# RAMbloaters
+# RAMbloaters in a Slurm Cluster
 
 ### Description
 Identify jobs that requested a larger amount of RAM than the job actually used (sensitivity is customizable). Output the job details into a file for parsing or identifying certain jobs. Print a summary of unused ram.
